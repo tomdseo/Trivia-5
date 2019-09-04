@@ -3,5 +3,8 @@ Simple Web Application that renders a set of 5 science trivia questions from an 
 
 Preview:
 
-![alt text](https://raw.githubusercontent.com/tomdseo/Trivia-5/master/path/to/annotation.png)
+![alt text](https://raw.githubusercontent.com/tomdseo/Trivia-5/annotation.png)
+
+
+
 
